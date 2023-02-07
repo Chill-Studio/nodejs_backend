@@ -1,0 +1,31 @@
+{
+	"components": {
+		"examples": {},
+		"headers": {},
+		"parameters": {},
+		"requestBodies": {},
+		"responses": {},
+		"schemas": {},
+		"securitySchemes": {}
+	},
+	"info": {
+		"title": "back-end-boiler-plate",
+		"version": "1.0.0",
+		"description": "A node express tsoa boiler plate made by Chill Studio ",
+		"license": {
+			"name": "unlicense"
+		},
+		"contact": {
+			"name": "Robin Lebhar",
+			"email": "robin.lebhar.chill.studio@gmail.com",
+			"url": "https://github.com/Chill-Studio/back-end-boiler-plate"
+		}
+	},
+	"openapi": "3.0.0",
+	"paths": {},
+	"servers": [
+		{
+			"url": "/"
+		}
+	]
+}
